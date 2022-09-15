@@ -11,7 +11,9 @@
   <img align="center" alt="Ana-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    <img align="center" alt="Ana-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
    </div>
-   
+   <div align="left">
+   <img src="![download20220904091521](https://user-images.githubusercontent.com/109384880/190402740-cf67ffbd-c59c-436d-a1d0-42c755bc4c02.png)/>
+   </div>
    ##
    
    <hr>
