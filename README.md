@@ -1,8 +1,8 @@
-## Olá sou a Ana Paula!!
+## Hello, i´m Ana!!
 
 
 - Cursando Análise e desenvolvimento de sistemas.
-- Gosto muito de estudar html e css
+- Gosto de estudar html e css.
 - Acredito que no futuro irei trabalhar com Front-end.
 
 <hr>
