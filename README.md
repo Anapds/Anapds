@@ -2,7 +2,6 @@
 
 
 - Cursando Análise e desenvolvimento de sistemas.
-- Gosto de estudar html e css.
 - Acredito que no futuro irei trabalhar com Front-end.
 
 <hr>
