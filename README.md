@@ -2,7 +2,7 @@
 
 
 - Cursando Análise e desenvolvimento de sistemas.
-- Acredito que no futuro irei trabalhar com Front-end.
+- Acredito que no futuro irei trabalhar como Full  Stack.
 
 <hr>
 <div align="center"><a href="https://github.com/AnaPds"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnaPds&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaPds&layout=compact&langs_count=7&theme=dracula"/></div><div style="display: inline_block"><br>
