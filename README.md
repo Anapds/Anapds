@@ -1,7 +1,7 @@
 ## Hello, i´m Ana!!
 
 
-- Cursando Análise e desenvolvimento de sistemas.
+- Técnico e estagiário em desenvolvimento de sistemas.
 - No futuro irei trabalhar como Full  Stack!!
 
 <hr>
