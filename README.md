@@ -15,7 +15,8 @@
  
    </div>
    
-   <hr>
+  ## 
+  
  <div>
    <h3>Where to find me</h3>
     <a href="https://instagram.com/anapds.jpg" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
