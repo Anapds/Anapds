@@ -2,7 +2,7 @@
 
 I currently work as a full stack intern.
 
-Brazil ✈️
+Brazil 📌
 
  <b> 💻 Skills:</b> <br> <br>
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
