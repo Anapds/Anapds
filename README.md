@@ -1,4 +1,4 @@
-<div style="text-align:center;">
+
  ## Hello World! My name is Ana👋
 
 I currently work as a full stack intern.
@@ -18,7 +18,7 @@ Brazil 📌
 
    </div>
 
-   </div>
+ 
 
 <div><a href="https://github.com/AnaPds"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaPds&layout=compact&langs_count=7&theme=dracula"/></div><div style="display: inline_block"><br>
    
