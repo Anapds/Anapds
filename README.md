@@ -1,4 +1,5 @@
-## Hello World! My name is Ana👋
+<div style="text-align:center;">
+ ## Hello World! My name is Ana👋
 
 I currently work as a full stack intern.
 
@@ -14,6 +15,8 @@ Brazil 📌
 <img alt="gitLab" src="https://img.shields.io/badge/-GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white"/>
 <img alt="mysql" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 <img alt="docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+
+   </div>
 
    </div>
 
