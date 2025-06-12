@@ -1,8 +1,6 @@
 
  ## Hello World! My name is Ana👋
 
-I currently work as a full stack intern.
-
 Brazil 📌
 
  <b> 💻 Skills:</b> <br> <br>
