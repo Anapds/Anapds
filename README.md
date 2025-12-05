@@ -18,7 +18,6 @@ Brazil 📌
 
  
 
-<div><a href="https://github.com/AnaPds"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaPds&layout=compact&langs_count=7&theme=dracula"/></div><div style="display: inline_block"><br>
    
   
   
