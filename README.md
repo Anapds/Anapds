@@ -4,7 +4,7 @@
   <h3>🚀 Systems Analyst | Automation Specialist</h3>
 
   <p>
-    I specialize in building efficient <strong>bots</strong>, <strong>web scrapers</strong>, and <strong>process automation</strong> tools. My focus is on transforming manual tasks into intelligent workflows using <strong>Python</strong> and <strong>n8n</strong> to save time and optimize business operations.
+  I specialize in developing interactive web interfaces and automated workflows. My focus is on integrating efficient front-end solutions with powerful backend automation using React and n8n to enhance productivity and business operations.
   </p>
 
   <p>---</p>
