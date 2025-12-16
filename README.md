@@ -1,7 +1,6 @@
 <div align="center">
 
   <h1>Hi, I'm Ana! </h1>
-  <h3> Systems Analyst | Automation Specialist</h3>
 
   <p>
   I specialize in developing interactive web interfaces and automated workflows. My focus is on integrating efficient front-end solutions with powerful backend automation using React and n8n to enhance productivity and business operations.
