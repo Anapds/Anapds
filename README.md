@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1>Hi, I'm Ana! 👋</h1>
+  <h1>Hi, I'm Ana! </h1>
   <h3> Systems Analyst | Automation Specialist</h3>
 
   <p>
