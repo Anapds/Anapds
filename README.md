@@ -2,10 +2,6 @@
 
   <h1>Hi, I'm Ana! </h1>
 
-
-
-  <p>---</p>
-
   <h3>📫 Connect with me:</h3>
   <p>
     <a href="https://www.linkedin.com/in/anapds1/">
