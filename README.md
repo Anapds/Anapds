@@ -2,9 +2,7 @@
 
   <h1>Hi, I'm Ana! </h1>
 
-  <p>
-Full Stack & Security Student | Specializing in DevSecOps 🎓 Post-grad in Information Security & Grad in Software Development (ADS) 🛠️ Focused on Automating Infrastructure (Python & n8n) and Server Security 🔒 Turning complex manual tasks into secure, automated workflows.
-  </p>
+
 
   <p>---</p>
 
