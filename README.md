@@ -30,25 +30,4 @@
   <img src="https://skillicons.dev/icons?i=php,laravel,python,mysql,docker,git,gitlab,vscode" />
 </p>
 
-<br>
 
-## About Me
-
-</div>
-
-```yaml
-name: Ana Paula
-focus: Full Stack Development
-main_stack:
-  - PHP
-  - Laravel
-  - MySQL
-
-currently_learning:
-  - Cybersecurity
-  - Python
-
-tools:
-  - Docker
-  - Git
-  - GitLab
