@@ -2,8 +2,6 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8A63D2&height=160&section=header&text=Ana%20Paula&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
-# Ana Paula
-
 ### Full Stack Developer • Cybersecurity Student
 
 <br>
