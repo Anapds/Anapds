@@ -1,12 +1,10 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=9370DB&height=180&section=header&text=Ana%20Paula&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8A63D2&height=160&section=header&text=Ana%20Paula&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
-# ✨ Hi, I'm Ana ✨
+# Ana Paula
 
-### 💜 Full Stack Developer  
-### 🔐 Cybersecurity Student  
-### ☕ Coffee & Code Lover  
+### Full Stack Developer • Cybersecurity Student
 
 <br>
 
@@ -14,19 +12,19 @@
   <a href="https://www.linkedin.com/in/anapds1/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  
+
   <a href="https://ana-paula-portfolio.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-b57edc?style=for-the-badge&logo=firefox&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portfolio-8A63D2?style=for-the-badge&logo=firefoxbrowser&logoColor=white"/>
   </a>
 </p>
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=C792EA&center=true&vCenter=true&width=435&lines=PHP+Developer;Laravel+Developer;Learning+Cybersecurity;Always+building+something+cool+💜" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=B392F0&center=true&vCenter=true&width=500&lines=PHP+Developer;Laravel+Developer;Cybersecurity+Student;Building+modern+web+applications" />
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
 <br>
 
@@ -36,32 +34,23 @@
 
 <br>
 
-## 🌱 Currently Learning
+## About Me
 
-<p align="center">
-  
-`Cybersecurity` • `Laravel` • `Python` • `Full Stack Development`
-
-</p>
-
-<br>
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Anapds&show_icons=true&theme=midnight-purple&hide_border=true"/>
-
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anapds&layout=compact&theme=midnight-purple&hide_border=true"/>
-</p>
-
-<br>
-
-## ✨ About Me
+</div>
 
 ```yaml
 name: Ana Paula
-located_in: Brazil
-current_focus: Laravel Development
-learning: Cybersecurity & Python
-favorite_stack: Laravel + MySQL
-hobbies: [Coding, Coffee, Music]
+focus: Full Stack Development
+main_stack:
+  - PHP
+  - Laravel
+  - MySQL
+
+currently_learning:
+  - Cybersecurity
+  - Python
+
+tools:
+  - Docker
+  - Git
+  - GitLab
