@@ -13,9 +13,9 @@
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 
-  <a href="https://ana-paula-portfolio.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-8A63D2?style=for-the-badge&logo=firefoxbrowser&logoColor=white"/>
-  </a>
+ <a href="https://ana-paula-portfolio.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=firefoxbrowser&logoColor=white"/>
+</a>
 </p>
 
 <br>
