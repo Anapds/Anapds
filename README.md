@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/anapds1/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
  <a href="https://ana-paula-portfolio.vercel.app/">
@@ -27,7 +27,19 @@
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,python,mysql,docker,git,gitlab,vscode" />
+  <img src="https://img.shields.io/badge/PHP-111111?style=for-the-badge&logo=php&logoColor=A78BFA"/>
+  
+  <img src="https://img.shields.io/badge/Laravel-111111?style=for-the-badge&logo=laravel&logoColor=A78BFA"/>
+  
+  <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=A78BFA"/>
+  
+  <img src="https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql&logoColor=A78BFA"/>
+  
+  <img src="https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker&logoColor=A78BFA"/>
+  
+  <img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=A78BFA"/>
+  
+  <img src="https://img.shields.io/badge/GitLab-111111?style=for-the-badge&logo=gitlab&logoColor=A78BFA"/>
 </p>
 
 
