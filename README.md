@@ -30,15 +30,14 @@
   <img src="https://img.shields.io/badge/PHP-111111?style=for-the-badge&logo=php&logoColor=A78BFA"/>
   
   <img src="https://img.shields.io/badge/Laravel-111111?style=for-the-badge&logo=laravel&logoColor=A78BFA"/>
+    <img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=A78BFA"/>
   
   <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=A78BFA"/>
   
   <img src="https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql&logoColor=A78BFA"/>
   
   <img src="https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker&logoColor=A78BFA"/>
-  
-  <img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=A78BFA"/>
-  
+    
   <img src="https://img.shields.io/badge/GitLab-111111?style=for-the-badge&logo=gitlab&logoColor=A78BFA"/>
 </p>
 
