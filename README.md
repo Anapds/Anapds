@@ -30,7 +30,6 @@
   <img src="https://img.shields.io/badge/PHP-111111?style=for-the-badge&logo=php&logoColor=A78BFA"/>
   
   <img src="https://img.shields.io/badge/Laravel-111111?style=for-the-badge&logo=laravel&logoColor=A78BFA"/>
-    <img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=A78BFA"/>
   
   <img src="https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=A78BFA"/>
   
