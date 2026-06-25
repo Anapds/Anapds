@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8A63D2&height=160&section=header&text=Ana%20Paula&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
-### Full Stack Developer • Cybersecurity Student
+### Full Stack Developer 
 
 <br>
 
@@ -18,7 +18,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=B392F0&center=true&vCenter=true&width=500&lines=PHP+Developer;Laravel+Developer;Cybersecurity+Student;Building+modern+web+applications" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=B392F0&center=true&vCenter=true&width=500&lines=PHP+Developer;Laravel+Developer;Building+modern+web+applications" />
 
 ---
 
