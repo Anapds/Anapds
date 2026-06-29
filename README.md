@@ -11,7 +11,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
- <a href="https://ana-paula-portfolio.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=firefoxbrowser&logoColor=white"/>
 </a>
 </p>
