@@ -15,7 +15,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=B392F0&center=true&vCenter=true&width=500&lines=PHP+Developer;Laravel+Developer;Building+modern+web+applications" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=B392F0&center=true&vCenter=true&width=500&lines=PHP+Developer;React+Developer;Building+modern+web+applications" />
 
 ---
 
@@ -26,7 +26,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/PHP-111111?style=for-the-badge&logo=php&logoColor=A78BFA"/>
   
-  <img src="https://img.shields.io/badge/Laravel-111111?style=for-the-badge&logo=laravel&logoColor=A78BFA"/>
+  <img src="https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript&logoColor=A78BFA"/>
   
   <img src="https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=A78BFA"/>
   
