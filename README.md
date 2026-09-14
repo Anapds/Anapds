@@ -46,31 +46,13 @@
   <h3>⚛ Statistics</h3>
 
   <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=anapds&bg_color=091428&color=61DAFB&line=61DAFB&point=ffffff&area=true&area_color=00529B&hide_border=true" alt="Activity Graph" width="95%" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anapds&bg_color=091428&color=61DAFB&line=61DAFB&point=ffffff&area=true&area_color=00529B&hide_border=true" alt="Activity Graph" width="95%" />
   </p>
 
   <br>
 
 </div>
 
----
-
-<div align="center">
-  <h3>⚛ About Me</h3>
-</div>
-
-<!-- Layout em Colunas: Avatar + Texto -->
-<table border="0">
-  <tr>
-    <td width="38%" align="center" valign="middle">
-      <img src="https://api.dicebear.com/7.x/bottts-neutral/svg?seed=AnaPaula&backgroundColor=091428" width="180" alt="Avatar" />
-    </td>
-    <td width="62%" valign="middle">
-      Olá! Meu nome é <strong>Ana Paula</strong> e sou desenvolvedora <strong>Full Stack</strong>. Sou apaixonada por construir aplicações modernas, robustas e escaláveis, integrando interfaces reativas a serviços de backend estruturados.<br><br>
-      Atualmente, foco meu desenvolvimento e arquitetura no ecossistema <strong>React, TypeScript, PHP, PostgreSQL e MySQL</strong>, aplicando automações de containers com <strong>Docker</strong> e boas práticas de código limpo.
-    </td>
-  </tr>
-</table>
 
 <br>
 
