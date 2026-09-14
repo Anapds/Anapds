@@ -31,11 +31,11 @@
   <br>
 
   <!-- Seção: Statistics (Activity Graph) -->
-  <h3>⚛ Statistics</h3>
+  <h3> Statistics</h3>
 
   <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anapds&bg_color=091428&color=61DAFB&line=61DAFB&point=ffffff&area=true&area_color=00529B&hide_border=true" alt="Activity Graph" width="95%" />
-  </p>
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=anapds1&theme=react&bg_color=091428&color=61DAFB&line=61DAFB&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
+</p>
 
   <br>
 
