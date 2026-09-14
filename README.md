@@ -1,5 +1,5 @@
 <div align="center">
-<h1> Hello I´m Ana!</h1>
+<h1>Hi, I'm Ana!</h1>
 
   <!-- Seção: Technologies -->
   <h3> Technologies</h3>
