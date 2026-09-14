@@ -8,9 +8,6 @@
     <a href="https://www.linkedin.com/in/anapds1/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
-    <a href="mailto:seu-email@dominio.com">
-      <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=61DAFB" alt="Email"/>
-    </a>
   </p>
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=19&pause=1200&color=61DAFB&center=true&vCenter=true&width=520&lines=Full+Stack+Developer;PHP+%7C+React+%7C+TypeScript;Docker+%7C+SQL+%7C+Modern+Tooling" alt="Typing SVG" />
