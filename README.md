@@ -50,13 +50,4 @@
   </tr>
 </table>
 
----
 
-### 📊 GitHub Insights
-
-<div align="center">
-  <a href="https://github.com/anapds1">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=anapds1&show_icons=true&theme=react&bg_color=0d1117&title_color=61DAFB&text_color=c9d1d9&icon_color=61DAFB&border_color=30363d&hide_border=false" alt="GitHub Stats" />
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anapds1&layout=compact&theme=react&bg_color=0d1117&title_color=61DAFB&text_color=c9d1d9&border_color=30363d&hide_border=false" alt="Top Langs" />
-  </a>
-</div>
