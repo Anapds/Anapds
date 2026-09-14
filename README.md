@@ -2,7 +2,7 @@
 
 <!-- Banner Superior -->
 <!-- Banner Superior -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=091428&height=180&section=header&text=Welcome%20to%20Ana%20Paula's%20Github&fontSize=30&fontColor=61DAFB&fontAlignY=50" alt="Banner" />  <br><br>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=091428&height=180&section=header&text=Welcome%20to%20Ana´s%20Github&fontSize=30&fontColor=61DAFB&fontAlignY=50" alt="Banner" />  <br><br>
 
   <!-- Botões Sociais Retangulares -->
   <p align="center">
