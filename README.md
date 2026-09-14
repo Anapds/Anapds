@@ -36,7 +36,6 @@
     <!-- DevOps & Versionamento -->
     <img src="https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker"/>
     <img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=F05032" alt="Git"/>
-    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </p>
 
 </div>
