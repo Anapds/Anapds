@@ -57,8 +57,7 @@
 <br>
 
 <div align="center">
-  <h3>⚛ Hobbies & Goals</h3>
-  <br>
+
   <p>
     Constante evolução em engenharia de software e arquitetura de sistemas.<br>
     <em>"A prática constante transforma a complexidade em domínio."</em>
