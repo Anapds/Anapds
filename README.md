@@ -1,8 +1,8 @@
 <div align="center">
 
   <!-- Banner Superior -->
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:091428,50:0A2540,100:00529B&height=180&section=header&text=Welcome%20to%20Ana%20Paula's%20Github&fontSize=28&fontColor=61DAFB&fontAlignY=50&desc=%3C/%3E&descSize=20&descColor=61DAFB&descAlignY=70" alt="Banner" />
-
+<!-- Banner Superior -->
+<img width="100%" src="https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&h=320&q=80" alt="Banner" style="border-radius: 8px; object-fit: cover;" />
   <br><br>
 
   <!-- Botões Sociais Retangulares -->
