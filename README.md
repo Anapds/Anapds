@@ -11,9 +11,7 @@
       <img src="https://img.shields.io/badge/LINKEDIN-004182?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     &nbsp;
-    <a href="mailto:seu-email@dominio.com">
-      <img src="https://img.shields.io/badge/GMAIL-4A76A8?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-    </a>
+  
   </p>
 
   <br>
@@ -23,16 +21,13 @@
 
   <p align="center">
     <!-- Linha 1: Core & DevOps -->
-    <img src="https://img.shields.io/badge/LINUX-091428?style=for-the-badge&logo=linux&logoColor=61DAFB" alt="Linux" />
     <img src="https://img.shields.io/badge/GIT-091428?style=for-the-badge&logo=git&logoColor=61DAFB" alt="Git" />
-    <img src="https://img.shields.io/badge/GITHUB-091428?style=for-the-badge&logo=github&logoColor=61DAFB" alt="GitHub" />
     <img src="https://img.shields.io/badge/DOCKER-091428?style=for-the-badge&logo=docker&logoColor=61DAFB" alt="Docker" />
     <img src="https://img.shields.io/badge/PHP-004182?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   </p>
   <p align="center">
     <!-- Linha 2: Frontend & Bancos -->
     <img src="https://img.shields.io/badge/TYPESCRIPT-004182?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-    <img src="https://img.shields.io/badge/JAVASCRIPT-004182?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
     <img src="https://img.shields.io/badge/POSTGRESQL-004182?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
     <img src="https://img.shields.io/badge/MYSQL-004182?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
     <img src="https://img.shields.io/badge/TAILWIND_CSS-00529B?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
@@ -51,7 +46,7 @@
   <h3>⚛ Statistics</h3>
 
   <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=anapds1&bg_color=091428&color=61DAFB&line=61DAFB&point=ffffff&area=true&area_color=00529B&hide_border=true" alt="Activity Graph" width="95%" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=anapds&bg_color=091428&color=61DAFB&line=61DAFB&point=ffffff&area=true&area_color=00529B&hide_border=true" alt="Activity Graph" width="95%" />
   </p>
 
   <br>
