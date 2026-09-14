@@ -1,8 +1,7 @@
 <div align="center">
 
-  <!-- Banner Superior -->
 <!-- Banner Superior -->
-<img width="100%" src="https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&h=320&q=80" alt="Banner" style="border-radius: 8px; object-fit: cover;" />
+<img width="100%" src="https://images.unsplash.com/photo-1518837695005-2083093ee35b?auto=format&fit=crop&w=1200&h=300&q=80" alt="Banner" style="border-radius: 6px; object-fit: cover;" />
   <br><br>
 
   <!-- Botões Sociais Retangulares -->
