@@ -29,12 +29,6 @@
   <img src="https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript&logoColor=A78BFA"/>
   
   <img src="https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=A78BFA"/>
-  
-  <img src="https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql&logoColor=A78BFA"/>
-  
-  <img src="https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker&logoColor=A78BFA"/>
-    
-  <img src="https://img.shields.io/badge/GitLab-111111?style=for-the-badge&logo=gitlab&logoColor=A78BFA"/>
-</p>
+
 
 
