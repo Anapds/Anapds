@@ -33,8 +33,7 @@
 <div align="center">
 
   <p>
-    Constante evolução em engenharia de software e arquitetura de sistemas.<br>
-    <em>"A prática constante transforma a complexidade em domínio."</em>
+    <em>"Constant practice turns complexity into mastery."</em>
   </p>
   <br>
   <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/9.png" width="140" alt="Blastoise" />
