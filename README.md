@@ -27,23 +27,9 @@
     <img src="https://img.shields.io/badge/FIGMA-4A76A8?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
     <img src="https://img.shields.io/badge/NOTION-4A76A8?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
   </p>
-
   <br>
-
-  <!-- Seção: Statistics (Activity Graph) -->
-  <h3> Statistics</h3>
-
-  <p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=anapds1&theme=react&bg_color=091428&color=61DAFB&line=61DAFB&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
-</p>
-
-  <br>
-
 </div>
-
-
 <br>
-
 <div align="center">
 
   <p>
