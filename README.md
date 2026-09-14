@@ -4,17 +4,7 @@
 <!-- Banner Superior -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=091428&height=180&section=header&text=Welcome%20to%20Ana´s%20Github&fontSize=30&fontColor=61DAFB&fontAlignY=50" alt="Banner" />  <br><br>
 
-  <!-- Botões Sociais Retangulares -->
-  <p align="center">
-    <a href="https://www.linkedin.com/in/anapds1/" target="_blank">
-      <img src="https://img.shields.io/badge/LINKEDIN-004182?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    &nbsp;
-  
-  </p>
-
   <br>
-
   <!-- Seção: Technologies -->
   <h3> Technologies</h3>
 
