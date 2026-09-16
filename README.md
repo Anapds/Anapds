@@ -16,6 +16,7 @@
     <!-- Backend & Banco de Dados -->
     <img src="https://img.shields.io/badge/PHP-4A76A8?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
     <img src="https://img.shields.io/badge/POSTGRESQL-4A76A8?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+    <img src="https://img.shields.io/badge/SUPABASE-4A76A8?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
     <img src="https://img.shields.io/badge/MYSQL-4A76A8?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   </p>
 
