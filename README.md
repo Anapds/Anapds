@@ -5,7 +5,8 @@
   <h3> Technologies</h3>
 
 <p align="center">
-    <!-- Frontend -->
+    <!-- Frontend -->    
+   <img src="https://img.shields.io/badge/LARAVEL-4A76A8?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
     <img src="https://img.shields.io/badge/REACT-4A76A8?style=for-the-badge&logo=react&logoColor=white" alt="React" />
     <img src="https://img.shields.io/badge/TYPESCRIPT-4A76A8?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
     <img src="https://img.shields.io/badge/TAILWIND_CSS-4A76A8?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
